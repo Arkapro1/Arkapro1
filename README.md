@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkapro1</h1>
-<h3 align="center">A fresher (BTech) frontend developer , programer from India</h3>
+<h3 align="center">A fresher (BTech) Full stack developer , programer and an active learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkapro1&label=Profile%20views&color=0e75b6&style=flat" alt="arkapro1" /> </p>
 
