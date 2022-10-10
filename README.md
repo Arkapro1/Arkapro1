@@ -22,8 +22,10 @@
 - 📫 How to reach me **arkaarkaroy111probha@gmail.com**
 
 - ⚡ Fun fact **〽️Active Lerner〽️**
+
 <h3 align="left">OPen Source congratulations 🎊:</h3>
-[![@1arkaprobharoy's Holopin board](https://holopin.io/api/user/board?user=1arkaprobharoy)](https://holopin.io/@1arkaprobharoy)
+
+[![@1arkaprobharoy's Holopin board](https://www.holopin.io/api/user/board?user=1arkaprobharoy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,3 +59,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkaprobharoy&show_icons=true&theme=radical&title_color=00ff00&locale=en" alt="arkaprobharoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkaprobharoy&" alt="arkaprobharoy" /></p>
+<h3 align="left">OPen Source congratulations 🎊:</h3>
+[![@1arkaprobharoy's Holopin board](https://holopin.io/api/user/board?user=1arkaprobharoy)](https://holopin.io/@1arkaprobharoy)
