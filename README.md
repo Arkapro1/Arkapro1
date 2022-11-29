@@ -27,7 +27,7 @@
 
 <h3 align="left">OPen Source congratulations 🎊:</h3>
 
-[![@1arkaprobharoy's Holopin board](https://www.holopin.io/api/user/board?user=1arkaprobharoy)
+![@1arkaprobharoy's Holopin board](https://www.holopin.io/api/user/board?user=1arkaprobharoy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
